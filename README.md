@@ -6,7 +6,7 @@
 ![Robotics](https://skillicons.dev/icons?i=ros,cpp,c,python,arduino,raspberrypi)
 
 ### Infra / Tools
-![Infra](https://skillicons.dev/icons?i=git,githubactions,aws,docker,linux,windows)
+![Infra](https://skillicons.dev/icons?i=git,githubactions,ai,aws,linux,windows)
 
 ## 📜 Background
 ### 2026
