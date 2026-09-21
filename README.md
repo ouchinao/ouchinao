@@ -19,8 +19,9 @@
 ### 2025
 - **11**: Developed a robot at ICD-LAB that was exhibited for six months in the "FRIEND" exhibition at the National Communication Museum in Melbourne, Australia  
   _Tech Stack: ROS2, C++, Python_
-- **08**:  Developed a robot at ICD-LAB that was exhibited for seven days in the "AICHI Robot Friendly Cafe" exhibition at Expo 2025  
+- **08**: Developed a robot at ICD-LAB that was exhibited for seven days in the "AICHI Robot Friendly Cafe" exhibition at Expo 2025  
   _Tech Stack: ROS2, Flutter, C++, Python_
+- **07**: Passed the Applied Information Technology Engineer Examination (AP)  
 - **05**: Joined freee's accounting team as an intern before my full-time start  
   _Tech Stack: Rails, React, Go_
 - **02**: Developed a robot at ICD-LAB that was exhibited for two days in the "Weak Robots" exhibition at Miraikan  
